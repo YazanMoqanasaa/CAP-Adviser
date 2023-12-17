@@ -1,2 +1,2 @@
-# CAP-Adviser
-  CAP Advisor
+# CAP Advisor
+A web application that assists students in discovering technology fields that suit their strengths and interests at each educational stage. The project targets students who face difficulty in making the appropriate decision regarding their choice of technology field. The application relies on posing questions and simple tests to assess students' proficiency in various areas such as artificial intelligence and software engineering. After analyzing the answers, the application provides a comprehensive decision that helps students make informed choices based on their abilities and interests. Our goal is to assist students in finding the most suitable and sustainable path in their technology careers.
