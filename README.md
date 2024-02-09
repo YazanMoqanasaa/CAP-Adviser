@@ -29,7 +29,7 @@ To get started with CAP Advisor, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone[ https://github.com/your-username/CAP Advisor.git](https://github.com/YazanMoqanasaa/CAP-Adviser)
+git clone[ [https://github.com/your-username/CAP Advisor.git](https://github.com/YazanMoqanasaa/CAP-Adviser)](https://github.com/YazanMoqanasaa/CAP-Adviser/tree/main)
 
 
 Install dependencies:
